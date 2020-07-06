@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jenna Yang
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -67,7 +67,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "someone@example.com"
-  linkedin: in/jenna-yang-2274b0171
+  linkedin: jenna-yang-2274b0171
   github: jenna-my
 
 # Select which share links to show in posts
@@ -187,3 +187,17 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+#PROJECTS--------------------------------------------------------------------------------------------------------------------------------------------------------------------#
+
+My name is Inigo Montoya. I have the following qualities:
+
+- I rock a great mustache
+- I'm extremely loyal to my family
+
+What else do you need?
+
+###my history
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
